@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 test file 3.0
 
 
 
 
 
+=======
+test file
+>>>>>>> parent of 1f098db (test file moddified)
 
